@@ -19,61 +19,22 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor Junior autônomo, apaixo
 ---
 
 ## 💻 Repositórios em Destaque
-<div align="center">
-  <a href="https://github.com/DuqueIguro/JiuClass" target="_blank" style="text-decoration: none;">
-    <div style="display: inline-block; margin: 10px; padding: 15px; width: 300px; background: linear-gradient(135deg, #ff7eb3, #ff758c); border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s;">
-      <h3 style="color: white; text-align: center;">🚀 JiuClass</h3>
-      <p style="color: white; text-align: center;">Um sistema voltado para academias de artes marciais.</p>
-      <div style="background: #ffffff; border-radius: 5px; padding: 5px;">
-        <p style="font-size: 14px; color: #333; margin: 5px;">PHP <span style="float: right;">60.1%</span></p>
-        <div style="background: #ddd; border-radius: 5px; height: 10px; width: 100%;">
-          <div style="background: #4F5D95; height: 100%; width: 60.1%; border-radius: 5px;"></div>
-        </div>
-        <p style="font-size: 14px; color: #333; margin: 5px;">CSS <span style="float: right;">25.4%</span></p>
-        <div style="background: #ddd; border-radius: 5px; height: 10px; width: 100%;">
-          <div style="background: #1572B6; height: 100%; width: 25.4%; border-radius: 5px;"></div>
-        </div>
-        <p style="font-size: 14px; color: #333; margin: 5px;">JavaScript <span style="float: right;">6.2%</span></p>
-        <div style="background: #ddd; border-radius: 5px; height: 10px; width: 100%;">
-          <div style="background: #F7DF1E; height: 100%; width: 6.2%; border-radius: 5px;"></div>
-        </div>
-      </div>
-    </div>
-  </a>
-  <a href="https://github.com/DuqueIguro/Estudo-Cpp" target="_blank" style="text-decoration: none;">
-    <div style="display: inline-block; margin: 10px; padding: 15px; width: 300px; background: linear-gradient(135deg, #758cff, #7eb3ff); border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s;">
-      <h3 style="color: white; text-align: center;">🧑‍💻 Estudo-Cpp</h3>
-      <p style="color: white; text-align: center;">Estudo detalhado sobre C++ com exemplos práticos.</p>
-      <div style="background: #ffffff; border-radius: 5px; padding: 5px;">
-        <p style="font-size: 14px; color: #333; margin: 5px;">C++ <span style="float: right;">100%</span></p>
-        <div style="background: #ddd; border-radius: 5px; height: 10px; width: 100%;">
-          <div style="background: #00599C; height: 100%; width: 100%; border-radius: 5px;"></div>
-        </div>
-      </div>
-    </div>
-  </a>
-  <a href="https://github.com/DuqueIguro/Listagem-pokemon" target="_blank" style="text-decoration: none;">
-    <div style="display: inline-block; margin: 10px; padding: 15px; width: 300px; background: linear-gradient(135deg, #ffeb3b, #ffc107); border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s;">
-      <h3 style="color: white; text-align: center;">🎮 Listagem Pokémon</h3>
-      <p style="color: white; text-align: center;">Aplicação simples para listar e apresentar Pokémon.</p>
-      <div style="background: #ffffff; border-radius: 5px; padding: 5px;">
-        <p style="font-size: 14px; color: #333; margin: 5px;">HTML <span style="float: right;">58.1%</span></p>
-        <div style="background: #ddd; border-radius: 5px; height: 10px; width: 100%;">
-          <div style="background: #E34F26; height: 100%; width: 58.1%; border-radius: 5px;"></div>
-        </div>
-        <p style="font-size: 14px; color: #333; margin: 5px;">CSS <span style="float: right;">22.2%</span></p>
-        <div style="background: #ddd; border-radius: 5px; height: 10px; width: 100%;">
-          <div style="background: #1572B6; height: 100%; width: 22.2%; border-radius: 5px;"></div>
-        </div>
-        <p style="font-size: 14px; color: #333; margin: 5px;">JavaScript <span style="float: right;">19.7%</span></p>
-        <div style="background: #ddd; border-radius: 5px; height: 10px; width: 100%;">
-          <div style="background: #F7DF1E; height: 100%; width: 19.7%; border-radius: 5px;"></div>
-        </div>
-      </div>
-    </div>
-  </a>
-</div>
-
+ ### 🚀 [JiuClass](https://github.com/DuqueIguro/JiuClass)
+ - **Descrição:** Um sistema voltado para academias de artes marciais, desenvolvido como parte de um projeto de conclusão de curso (LDS). Este sistema gerencia alunos, turmas e funções administrativas.
+ - **Tecnologias:** PHP (60.1%), CSS (25.4%), JavaScript (6.2%), HTML (4.2%), Outros (4.1%).
+ 
+ ### 🧑‍💻 [Estudo-Cpp](https://github.com/DuqueIguro/Estudo-Cpp)
+ - **Descrição:** Um estudo detalhado sobre C++ que inclui conceitos fundamentais e exemplos práticos para iniciantes e intermediários.
+ - **Tecnologias:** C++ (100%).
+ 
+ ### 🎮 [Listagem Pokémon](https://github.com/DuqueIguro/Listagem-pokemon)
+ - **Descrição:** Uma aplicação web simples para listar e apresentar informações sobre Pokémon, ideal para aprender e aplicar conceitos de frontend.
+ - **Tecnologias:** HTML (58.1%), CSS (22.2%), JavaScript (19.7%).
+ 
+ ### 🛍️ [Obshop](https://github.com/DuqueIguro/Obshop)
+ - **Descrição:** Um sistema de e-commerce desenvolvido para projetos de POO (Programação Orientada a Objetos) e PWEB (Programação Web). O foco é na funcionalidade de compras online.
+ - **Tecnologias:** PHP (93.7%), HTML (4.6%), CSS (1.7%).
+   
 ---
 
 ## 💻 Tecnologias e Ferramentas
