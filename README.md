@@ -1,7 +1,7 @@
 # Olá, eu sou o Duque Iguro! 👋
 
 <div align="center">
-  <img src="https://iili.io/3h75OpS.png" alt="Duque Iguro" width="200" />
+  <img src="https://iili.io/3h75OpS.png" alt="Duque Iguro" width="100" />
 </div>
 
 Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor Junior autônomo, apaixonado por aprender novas tecnologias, resolver problemas e construir projetos inovadores. 🚀
