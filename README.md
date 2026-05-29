@@ -10,9 +10,8 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor Junior autônomo, apaixo
 
 ## 🌟 Sobre Mim
 - 🎓 **Técnico em Informática** e explorador de novas tecnologias.
-- 🚀 Atualmente focado em **C++**.
 - 🛠️ **Aprendendo:** Configuração de plugins de Minecraft com YAML.
-- 🎯 **Objetivo para 2025:** Aprofundar meu conhecimento em **Desenvolvimento Web**, **Sistemas Complexos** e contribuir para projetos open-source.
+- 🎯 **Objetivo para 2026 e 2027:** Aprofundar meu conhecimento em **Desenvolvimento Web**, **Sistemas Complexos** e contribuir para projetos open-source.
 - 🌟 **Interesses:** Desenvolvimento de jogos, sistemas backend robustos, design de aplicações frontend e otimização de processos.
 - ⌨️ **Velocidade de Digitação:** 400CPM (Caracteres por minuto) em média.
 
@@ -85,4 +84,4 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor Junior autônomo, apaixo
 
 ---
 
-A toca das cobras agradece sua visita! 🐍
+O ninho das cobras agradece sua visita! 🐍
