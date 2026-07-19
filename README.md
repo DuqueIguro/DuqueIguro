@@ -4,17 +4,6 @@
   </a>
 </h1>
 
-<div align="center">
-
-[![GitHub followers](https://img.shields.io/github/followers/DuqueIguro?style=social)](https://github.com/DuqueIguro)
-[![Twitter Follow](https://img.shields.io/twitter/follow/DuqueIguro?style=social)](https://twitter.com/DuqueIguro)
-
-Desenvolvedor Front End apaixonado por criar interfaces incríveis e experiências de usuário excepcionais. 🚀
-
-</div>
-
----
-
 ## 👋 Sobre Mim
 
 Sou um desenvolvedor **Junior Front End** com formação em **Técnico em Informática**, dedicado a criar aplicações web modernas, responsivas e intuitivas. Tenho experiência em desenvolvimento de interfaces, design interativo e implementação de experiências de usuário memoráveis.
