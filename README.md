@@ -1,19 +1,8 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&duration=3000&pause=1000&color=003b0c&center=true&vCenter=true&width=600&lines=Bem-vindo!+Sou+Murilo+Duque;Dev+Junior+Full+Stack;Apaixonado+por+Tecnologia" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&duration=3000&pause=1000&color=003b0c&center=true&vCenter=true&width=600&lines=Bem-vindo!+Sou+Duque;Dev+Junior+Front+End;Apaixonado+por+Tecnologia" alt="Typing SVG" />
   </a>
 </h1>
-
-<div align="center">
-
-[![GitHub followers](https://img.shields.io/github/followers/DuqueIguro?style=social)](https://github.com/DuqueIguro)
-[![Twitter Follow](https://img.shields.io/twitter/follow/DuqueIguro?style=social)](https://twitter.com/DuqueIguro)
-
-Desenvolvedor Full Stack apaixonado por criar soluções inovadoras e escaláveis. 🚀
-
-</div>
-
----
 
 ## 👋 Sobre Mim
 
